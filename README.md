@@ -4,4 +4,5 @@
 
 ## About me 
   
-- 🌱 I’m currently learning HTML,CSS & Javascript 
+- 🌱 I’m currently learning HTML,CSS, Javascript.
+- 🏃🏼‍♂️ Practising ReactJS 
