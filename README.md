@@ -4,5 +4,5 @@
 
 ## About me 
   
-- 🌱 I’m currently learning HTML,CSS, Javascript.
+- 🌱 Currently learning HTML,CSS, Javascript.
 - 🏃🏼‍♂️ Practising ReactJS, <a href="https://getbootstrap.com/" target="blank">Bootstrap</a>, <a href="https://mui.com/" target="blank">Material UI</a>
