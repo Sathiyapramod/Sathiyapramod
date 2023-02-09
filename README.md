@@ -6,3 +6,6 @@
   
 - 🌱 Currently learning HTML,CSS, Javascript.
 - 🏃🏼‍♂️ Practising ReactJS, <a href="https://getbootstrap.com/" target="blank">Bootstrap</a>, <a href="https://mui.com/" target="blank">Material UI</a>
+
+### 🏋🏼‍ My Stats :
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyapramod&layout=compact&theme=vision-friendly-dark)]
