@@ -4,9 +4,8 @@
 
 ## About Me 🙂
   
-  
-- 🌱 Currently learning HTML,CSS, Javascript.
-- 🏃🏼‍♂️ Practising ReactJS, <a href="https://getbootstrap.com/" target="blank">Bootstrap</a>, <a href="https://mui.com/" target="blank">Material UI</a>
+- 🌱 Learning HTML,CSS, Javascript.
+- 🏃🏼‍♂️ Practising <a href="https://legacy.reactjs.org/">React</a>, <a href="https://getbootstrap.com/" target="blank">Bootstrap</a>, <a href="https://mui.com/" target="blank">Material UI</a>
 
 ### 🏋🏼‍ My Stats :
   
