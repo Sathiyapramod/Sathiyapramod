@@ -1,6 +1,6 @@
 ## <a href="https://github.com/Sathiyapramod" taget="blank">Sathiyapramod</a> here 👋
 
-### <p>Follow me on <a href="https://www.linkedin.com/in/sathiyapramod" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedInProfile" height="20" width="20" /> LinkedIn </p>
+### <p>Follow me on <a href="https://www.linkedin.com/in/sathiyapramod" target="_blank">![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a></p>
   
 ### Take a Glance at my <a href="https://portfolio-designed-sathiyapramod.netlify.app/" target="blank">Portfolio</a>
 
