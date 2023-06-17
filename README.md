@@ -11,5 +11,5 @@
 
 ### 🏋🏼‍ My Stats :
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyapramod&layout=compact$theme=vision-friendly-light)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyapramod&layout=compact&$theme=vision-friendly-light)
   ![Top Langs](https://github-readme-stats.vercel.app/api/?username=sathiyapramod&layout=compact&theme=vision-friendly-light)
