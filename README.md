@@ -4,12 +4,13 @@
   
 ### Take a Glance at my <a href="https://portfolio-designed-sathiyapramod.netlify.app/" target="blank">Portfolio</a>
 
-### Equipping myself on Databases, Backend and much more.!!
+
 
 ## About Me 🙂
   
 - ### 🌱 Backend Developer at Bengaluru, India 
 - ### 🏃🏼‍♂️ Practising <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a> and <a href="https://expressjs.com/" target="_blank">NodeJS</a>
+- ### Equipping myself on Databases, Backend and much more.!!
 
 ### 🏋🏼‍ My Stats :
   
