@@ -4,6 +4,8 @@
   
 ### Take a Glance at my <a href="https://portfolio-designed-sathiyapramod.netlify.app/" target="blank">Portfolio</a>
 
+### Equipping myself on Databases, Backend and much more.!!
+
 ## About Me 🙂
   
 - ### 🌱 Backend Developer at Bengaluru, India 
