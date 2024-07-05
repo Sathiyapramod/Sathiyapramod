@@ -2,7 +2,7 @@
 
 ### <p>Follow me on <a href="https://www.linkedin.com/in/sathiyapramod" target="_blank">![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a></p>
   
-### Take a Glance at my <a href="https://portfolio-designed-sathiyapramod.netlify.app/" target="blank">Portfolio</a>
+### Take a Glance at my <a href="https://sathiyapramod.github.io/Portfolio/" target="blank">Portfolio</a>
 
 
 
