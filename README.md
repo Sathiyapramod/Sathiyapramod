@@ -8,12 +8,12 @@
 ![Gmail Badge](https://img.shields.io/badge/-sathiyapramod22@gmail.com-red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:sathiyapramod22@gmail.com)
 
 
-## About Me 🙂
+### About Me 🙂
   
-- ### 🌱 Backend Developer at Bengaluru, India 
-- ### 🏃🏼‍♂️ Practising <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>, <a href="https://expressjs.com/" target="_blank">NodeJS</a>
-- ### Equipping myself on Databases, Backend and much more.!!
-- ### Proud Indian 🇮🇳 🙂
+- #### 🌱 Backend Developer at Bengaluru, India 
+- #### 🏃🏼‍♂️ Practising <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>, <a href="https://expressjs.com/" target="_blank">NodeJS</a>
+- #### Equipping myself on Databases, Backend and much more.!!
+- #### Proud Indian 🇮🇳 🙂
 
 ### 🏋🏼‍ My Stats :
 
