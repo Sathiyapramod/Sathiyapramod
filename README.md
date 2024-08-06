@@ -5,6 +5,8 @@
 ### <p>Follow me on <a href="https://www.linkedin.com/in/sathiyapramod" target="_blank">![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a></p>
   
 ### Take a Glance at my <a href="https://sathiyapramod.github.io/Portfolio/" target="blank">Portfolio</a>
+![Gmail Badge](https://img.shields.io/badge/-sathiyapramod22@gmail.com-red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:sathiyapramod22@gmail.com)
+
 
 ## About Me 🙂
   
