@@ -19,5 +19,5 @@
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyapramod&layout=compact&theme=vision-friendly-dark' alt='stat_1'> <br /><br />
-  <img src='https://github-readme-stats.vercel.app/api/?username=sathiyapramod&layout=compact&theme=vision-friendly-dark'>
+  <img src='https://github-readme-stats.vercel.app/api/?username=sathiyapramod&layout=compact&theme=vision-friendly-medium'>
 </div>
