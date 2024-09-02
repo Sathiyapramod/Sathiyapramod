@@ -10,10 +10,8 @@
 
 ### About Me 🙂
   
-- #### 🌱 Backend Developer at Bengaluru, India 
-- #### 🏃🏼‍♂️ Practising <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>, <a href="https://expressjs.com/" target="_blank">NodeJS</a>
-- #### Equipping myself on Databases, Backend and much more.!!
-- #### Proud Indian 🇮🇳 🙂
+🌱 Backend Developer at Bengaluru, India | 🏃🏼‍♂️ Practising <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>, <a href="https://expressjs.com/" target="_blank">NodeJS</a> 
+| Equipping myself on Databases, Backend and much more.!! | Proud Indian 🇮🇳 🙂 
 
 ### 🏋🏼‍ My Stats :
 
