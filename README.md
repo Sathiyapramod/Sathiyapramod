@@ -13,7 +13,8 @@
 
 <ul>
   <li>
-🌱 Backend Developer at Bengaluru, India</li>
+🌱 Developer | Learner | Team Player</li>
+  <li>Bengaluru | Chennai</li>
   <li>🏃🏼‍♂️ Practising <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>, <a href="https://expressjs.com/" target="_blank">NodeJS</a> </li>
   <li>Equipping myself on Databases, Backend and much more.!!</li>
   <li>Proud Indian 🇮🇳 🙂 </li>
