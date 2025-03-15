@@ -15,7 +15,7 @@
   <li>
 🌱 Developer | Learner | Team Player</li>
   <li>Bengaluru | Chennai</li>
-  <li>🏃🏼‍♂️ Practising <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>, &nbsp; <a href="https://expressjs.com/" target="_blank">NodeJS</a> , &nbsp; <a href='https://www.java.com/en/'>Java</a></li>
+  <li>🏃🏼‍♂️ Practising <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>, &nbsp; <a href="https://expressjs.com/" target="_blank">NodeJS</a> and &nbsp; <a href='https://www.java.com/en/'>Java</a></li>
   <li>Equipping myself on Databases, Backend and much more.!!</li>
   <li>Proud Indian 🇮🇳 🙂 </li>
 </ul>
